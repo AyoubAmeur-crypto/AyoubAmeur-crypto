@@ -20,7 +20,7 @@
 
 <img align="right" width="340" src="https://assets-v2.lottiefiles.com/a/33031b04-8daa-11ee-b89a-5778bb5d2eaf/XjDl8g1vq6.gif" alt="Developer coding animation"/>
 
-# About Me
+### About Me
 
 I'm **Ayoub Ameur**, a Software Engineering & Artificial Intelligence engineering student at **ENSA Fès**.
 
