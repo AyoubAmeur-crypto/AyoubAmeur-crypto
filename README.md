@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=6,12,20&text=Ayoub%20Ameur&fontSize=42&fontAlignY=35&desc=Software%20Engineering%20%26%20AI&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,12,20&text=Ayoub%20Ameur&fontSize=42&fontAlignY=35&desc=Software%20Engineering%20%7C%20Distributed%20Systems%20%26%20AI&descAlignY=58&animation=fadeIn" alt="Header Banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=700&color=6E9EF5&center=true&vCenter=true&repeat=true&width=700&lines=Software+Engineer+%E2%9A%99%EF%B8%8F;AI+%26+Computer+Vision+%F0%9F%A7%A0;Full-Stack+%26+Mobile+Developer+%F0%9F%9A%80;QA+Automation+with+Playwright+%F0%9F%A7%AA;Building+systems+that+actually+ship." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=6E9EF5&center=true&vCenter=true&repeat=true&width=750&lines=Software+Engineer+%7C+Java+%26+Distributed+Systems;AI+%26+Computer+Vision+Specialist;Full-Stack+%26+Mobile+Architect;QA+Automation+Engineer+%7C+Playwright+%26+CI%2FCD;Crafting+Resilient+Microservices+%26+Agentic+Pipelines." alt="Typing SVG" />
 
 <br/>
 
@@ -15,70 +15,53 @@
 
 ---
 
-<img align="right" width="345" src="https://assets-v2.lottiefiles.com/a/33031b04-8daa-11ee-b89a-5778bb5d2eaf/XjDl8g1vq6.gif" alt="Developer coding animation"/>
+<img align="right" width="340" src="https://assets-v2.lottiefiles.com/a/33031b04-8daa-11ee-b89a-5778bb5d2eaf/XjDl8g1vq6.gif" alt="Developer coding animation"/>
 
-## 👋 About me
+## About Me
 
 I'm **Ayoub Ameur**, a Software Engineering & Artificial Intelligence engineering student at **ENSA Fès**.
 
-I enjoy working where **software engineering, AI, testing, and product thinking** meet — building full-stack platforms, computer-vision applications, mobile products, ML systems, and reliable automated test suites.
+I specialize at the intersection of **scalable software engineering, autonomous AI systems, and automated test architecture** — crafting production-grade web platforms, computer vision pipelines, microservices, and hermetic QA automation suites.
 
-- 🔭 Currently building **AtlasBank**, a hands-on Spring Boot microservices project
-- 🧪 Working with **JUnit 5, Mockito, Testcontainers, Playwright & CI**
-- 🧠 Exploring **agentic AI, LangGraph, MCP, microservices architecture & distributed systems**
-- 📱 Building cross-platform experiences with **React Native + Expo**
-- 🎥 Outside code: **videography, photography, design, and travel**
-- 🎯 Open to **PFE 2027 / internships / junior opportunities** in Software, QA Automation, AI/ML & Computer Vision
+- **Academic Track:** ENSA Fès — Software Engineering & Artificial Intelligence (PFE 2027)
+- **Active Build:** **AtlasBank** — Event-driven Spring Boot microservices with distributed transaction boundaries
+- **Test Engineering:** Unit & integration suites using **JUnit 5, Mockito, Testcontainers, Playwright & GitHub Actions CI**
+- **AI & Systems:** Agentic workflows, **LangGraph, LangChain, MCP (Model Context Protocol)** & computer vision pipelines
+- **Mobile Ecosystem:** Cross-platform engineering with **React Native + Expo Router**
+- **Opportunities:** Open to **PFE 2027 / Internships / Junior Engineering roles** in Software Engineering, QA Automation, and Applied AI
 
 <br clear="right"/>
 
 ---
 
-## 🚀 Featured work
+## Featured Engineering Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ⚙️ [FlowDesk](https://github.com/AyoubAmeur-crypto/FlowDesk-client)
+### [FlowDesk](https://github.com/AyoubAmeur-crypto/FlowDesk-client)
+![Status](https://img.shields.io/badge/Status-Shipped-2EAD33?style=flat-square)
+![Stars](https://img.shields.io/github/stars/AyoubAmeur-crypto/FlowDesk-client?style=flat-square&logo=github&color=6E9EF5&labelColor=1a1b26)
+
 **Freelance & Agency Management Platform**
 
-React 19 · Spring Boot · Spring Security · PostgreSQL · JWT · Playwright · Docker · GitHub Actions
+`React 19` · `Spring Boot` · `PostgreSQL` · `JWT` · `Playwright` · `Docker` · `CI/CD`
 
-Full-stack platform with role-based workflows plus an automated Playwright test framework, reusable auth state, deterministic database reset/seed flows, CI execution, and failure artifacts.
+Full-stack enterprise management platform featuring role-based access control, automated Playwright regression suite, reusable authentication fixtures, and automated CI pipelines with artifact recording.
 
 </td>
 <td width="50%" valign="top">
 
-### 👁️ [Tari9Vision](https://github.com/AyoubAmeur-crypto/Tari9Vision)
+### [Tari9Vision](https://github.com/AyoubAmeur-crypto/Tari9Vision)
+![Status](https://img.shields.io/badge/Status-Active-6E9EF5?style=flat-square)
+![Stars](https://img.shields.io/github/stars/AyoubAmeur-crypto/Tari9Vision?style=flat-square&logo=github&color=6E9EF5&labelColor=1a1b26)
+
 **Road Damage Intelligence Studio**
 
-PyTorch · YOLO · SAM · U-Net · DeepLabV3 · OpenCV · FastAPI · React
+`PyTorch` · `YOLO` · `SAM` · `U-Net` · `DeepLabV3` · `OpenCV` · `FastAPI` · `React`
 
-Computer-vision application for image/video road-damage analysis with model inference, segmentation overlays, device selection, video processing, and FastAPI endpoints.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🚗 [Localik](https://github.com/AyoubAmeur-crypto/Localik)
-**Moroccan Car Rental Product**
-
-Next.js · TypeScript · Tailwind CSS · GSAP · MongoDB · Cloudinary
-
-Responsive rental experience with location search, rental dates, vehicle discovery, maps, WhatsApp contact, and Moroccan city coverage.
-
-</td>
-<td width="50%" valign="top">
-
-### 🧪 [MovieWatcher QA Suite](https://github.com/AyoubAmeur-crypto/MovieWatcherTypeScriptPlaywright)
-**Cross-browser Playwright Automation**
-
-TypeScript · Playwright · POM · API Mocking · Auth State · Traces · Videos
-
-Automated UI/API coverage for authentication, navigation, search, watchlists and API behavior across Chromium, Firefox and WebKit.
+High-throughput computer-vision studio for automated road degradation inspection. Supports multi-model inference, semantic segmentation masks, GPU/CPU acceleration, and REST streaming endpoints.
 
 </td>
 </tr>
@@ -86,22 +69,57 @@ Automated UI/API coverage for authentication, navigation, search, watchlists and
 <tr>
 <td width="50%" valign="top">
 
-### 💧 [Water Potability ML](https://github.com/AyoubAmeur-crypto/WaterPotabilityProject)
-**End-to-End ML Application**
+### [Localik](https://github.com/AyoubAmeur-crypto/Localik)
+![Status](https://img.shields.io/badge/Status-Production-2EAD33?style=flat-square)
+![Stars](https://img.shields.io/github/stars/AyoubAmeur-crypto/Localik?style=flat-square&logo=github&color=6E9EF5&labelColor=1a1b26)
 
-Python · Pandas · NumPy · scikit-learn · GridSearchCV · Random Forest · FastAPI
+**Moroccan Car Rental Marketplace**
 
-ML workflow covering preprocessing, model comparison, hyperparameter tuning, evaluation, model persistence and serving predictions through an API.
+`Next.js` · `TypeScript` · `Tailwind CSS` · `GSAP` · `MongoDB` · `Cloudinary`
+
+Production car rental platform engineered with responsive vehicle discovery, dynamic scheduling filters, geospatial map integration, and accelerated animations.
 
 </td>
 <td width="50%" valign="top">
 
-### 📱 [iTracker](https://github.com/AyoubAmeur-crypto/IrackerOfficialApp)
-**Cross-platform Personal Finance App**
+### [MovieWatcher QA Suite](https://github.com/AyoubAmeur-crypto/MovieWatcherTypeScriptPlaywright)
+![Status](https://img.shields.io/badge/Status-Automation-2EAD33?style=flat-square)
+![Stars](https://img.shields.io/github/stars/AyoubAmeur-crypto/MovieWatcherTypeScriptPlaywright?style=flat-square&logo=github&color=6E9EF5&labelColor=1a1b26)
 
-React Native · Expo Router · TypeScript · Firebase · Node.js · Express · MongoDB
+**Cross-Browser Playwright Framework**
 
-Mobile expense-tracking application with authentication, secure storage, charts, filters, and a dedicated backend.
+`TypeScript` · `Playwright` · `Page Object Model` · `Network Mocking` · `CI Reports`
+
+Comprehensive test framework implementing POM, parallel test runners across Chromium, Firefox, and WebKit, state injection, and automatic trace/video capturing on failure.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### [Water Potability ML](https://github.com/AyoubAmeur-crypto/WaterPotabilityProject)
+![Status](https://img.shields.io/badge/Status-Completed-blue?style=flat-square)
+![Stars](https://img.shields.io/github/stars/AyoubAmeur-crypto/WaterPotabilityProject?style=flat-square&logo=github&color=6E9EF5&labelColor=1a1b26)
+
+**End-to-End Predictive Machine Learning**
+
+`Python` · `Pandas` · `scikit-learn` · `GridSearchCV` · `Random Forest` · `FastAPI`
+
+Complete ML engineering lifecycle: exploratory data analysis, outlier imputation, cross-validation tuning, model artifact persistence, and containerized prediction endpoints.
+
+</td>
+<td width="50%" valign="top">
+
+### [iTracker](https://github.com/AyoubAmeur-crypto/IrackerOfficialApp)
+![Status](https://img.shields.io/badge/Status-Mobile-6E9EF5?style=flat-square)
+![Stars](https://img.shields.io/github/stars/AyoubAmeur-crypto/IrackerOfficialApp?style=flat-square&logo=github&color=6E9EF5&labelColor=1a1b26)
+
+**Cross-Platform Financial Tracker**
+
+`React Native` · `Expo Router` · `TypeScript` · `Firebase` · `Node.js` · `MongoDB`
+
+Native mobile accounting solution with biometric authentication, persistent local & cloud state, real-time analytics dashboards, and custom category charting.
 
 </td>
 </tr>
@@ -109,136 +127,54 @@ Mobile expense-tracking application with authentication, secure storage, charts,
 
 ---
 
-## 🧰 Toolbox
+## Technical Stack & Arsenal
 
 <div align="center">
 
-### Languages
-![Java](https://skillicons.dev/icons?i=java)
-![Python](https://skillicons.dev/icons?i=python)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
-![TypeScript](https://skillicons.dev/icons?i=typescript)
-![C](https://skillicons.dev/icons?i=c)
-![PHP](https://skillicons.dev/icons?i=php)
-
-### Frontend & Mobile
-![React](https://skillicons.dev/icons?i=react)
-![Next.js](https://skillicons.dev/icons?i=nextjs)
-![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![Electron](https://skillicons.dev/icons?i=electron)
-
-### Backend & Data
-![Spring](https://skillicons.dev/icons?i=spring)
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
-![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![Firebase](https://skillicons.dev/icons?i=firebase)
-
-### AI / ML / Computer Vision
-![PyTorch](https://skillicons.dev/icons?i=pytorch)
-![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
-![OpenCV](https://skillicons.dev/icons?i=opencv)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-
-### Testing, DevOps & Tools
-![Docker](https://skillicons.dev/icons?i=docker)
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![GitHub Actions](https://skillicons.dev/icons?i=githubactions)
-![Postman](https://skillicons.dev/icons?i=postman)
-![Figma](https://skillicons.dev/icons?i=figma)
-
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![JUnit 5](https://img.shields.io/badge/JUnit%205-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-Testing-78A641?style=for-the-badge)
-![Testcontainers](https://img.shields.io/badge/Testcontainers-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
-
----
-
-## 🧩 What I'm building / learning now
-
-```text
-AtlasBank microservices        → Spring Boot · PostgreSQL · testing · service boundaries
-Java interview fundamentals   → JVM · OOP · collections · streams · concurrency
-Testing deeper                → JUnit 5 · Mockito · Testcontainers · Playwright
-Agentic AI                    → LangChain · LangGraph · MCP concepts & experiments
-Cloud-native architecture     → Docker · microservices · observability · Kubernetes/Helm
-Problem solving               → Data structures & algorithms · NeetCode practice
-```
-
-> **Current principle:** understand it → build it → test it → explain it.
-
----
-
-## 📊 GitHub pulse
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AyoubAmeur-crypto&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Ayoub's GitHub stats"/>
-<img height="170" src="https://streak-stats.demolab.com?user=AyoubAmeur-crypto&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+#### Languages
+<img src="https://skillicons.dev/icons?i=java,python,ts,js,c,php&theme=dark" alt="Languages" />
 
 <br/>
 
-<img width="72%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyoubAmeur-crypto&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
+#### Backend, Microservices & Data
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,postgres,mysql,mongodb,firebase&theme=dark" alt="Backend and Data" />
+<br/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security" />
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=AyoubAmeur-crypto&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph"/>
-
-</div>
-
----
-
-## 🐍 Contribution playground
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AyoubAmeur-crypto/AyoubAmeur-crypto/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AyoubAmeur-crypto/AyoubAmeur-crypto/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/AyoubAmeur-crypto/AyoubAmeur-crypto/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
----
-
-## 🎯 Engineering interests
-
-<div align="center">
-
-`Backend Architecture` · `Microservices` · `QA Automation` · `Computer Vision` · `Applied ML` · `Mobile` · `Developer Tools`
-
-</div>
-
----
-
-## 🌍 Languages
-
-**Arabic** — Native &nbsp; | &nbsp; **French** — Advanced &nbsp; | &nbsp; **English** — Advanced
-
----
-
-## 🤝 Let's build something useful
-
-<div align="center">
-
-I'm interested in **PFE 2027 opportunities**, engineering collaborations, open-source work, and ambitious products where software quality actually matters.
-
-[![Let's Connect](https://img.shields.io/badge/Let's%20Connect-LinkedIn-6E9EF5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayoub-ameur-772a70362)
-[![Say Hi](https://img.shields.io/badge/Say%20Hi-Email-6E9EF5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayoubameur.tech@gmail.com)
+#### Frontend & Mobile
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,electron&theme=dark" alt="Frontend and Mobile" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=650&lines=Build+things.+Break+things.+Test+things.+Learn+fast.;Clean+architecture+%3E+clever+code.;Always+curious.+Always+shipping." alt="Footer typing animation" />
+#### AI, Computer Vision & Agentic Systems
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" alt="AI and CV" />
+<br/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+<img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" alt="YOLO" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient&customColorList=6,12,20" />
+<br/><br/>
+
+#### Quality Assurance, DevOps & Infrastructure
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,postman,figma,linux&theme=dark" alt="DevOps and Tools" />
+<br/>
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
+<img src="https://img.shields.io/badge/JUnit%205-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit 5" />
+<img src="https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logoColor=white" alt="Mockito" />
+<img src="https://img.shields.io/badge/Testcontainers-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Testcontainers" />
 
 </div>
+
+---
+
+## Architecture & Engineering Radar
+
+```bash
+[Active Focus]       AtlasBank Microservices   :: Service boundaries, distributed transactions, resilience
+[Quality First]      Hermetic Testing          :: JUnit 5, Mockito, Testcontainers, Playwright POM
+[Agentic AI]         Autonomous Workflows      :: LangGraph, MCP protocol, tool execution loops
+[Systems & Scale]    Infrastructure            :: Docker, containerized CI/CD, observability, Linux
+[CS Foundations]     Core Algorithms           :: JVM internals, concurrency, data structures
