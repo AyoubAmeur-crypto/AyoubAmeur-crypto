@@ -1,6 +1,7 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,12,20&text=Ayoub%20Ameur&fontSize=42&fontAlignY=35&desc=Software%20Engineering%20%7C%20Distributed%20Systems%20%26%20AI&descAlignY=58&animation=none&v=3" alt="Header Banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=200&amp;color=gradient&amp;customColorList=6,12,20&amp;text=Ayoub%20Ameur&amp;fontSize=42&amp;fontAlignY=35&amp;desc=Software%20Engineering%20%7C%20Distributed%20Systems%20%26%20AI&amp;descAlignY=58&amp;animation=none&amp;v=4" alt="Ayoub Ameur banner" />
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=6E9EF5&center=true&vCenter=true&repeat=true&width=750&lines=Software+Engineer+%7C+Java+%26+Distributed+Systems;AI+%26+Computer+Vision+Specialist;Full-Stack+%26+Mobile+Architect;QA+Automation+Engineer+%7C+Playwright+%26+CI%2FCD;Crafting+Resilient+Microservices+%26+Agentic+Pipelines." alt="Typing SVG" />
 
